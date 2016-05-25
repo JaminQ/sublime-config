@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+super+s"], "command": "sublimelinter_show_all_errors" }
+]
